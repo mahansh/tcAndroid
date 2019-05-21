@@ -17,4 +17,4 @@ MainC3Activity
 
 ##
 
-Mahan Shahriary
+Mahan Shahriary Golestan University
