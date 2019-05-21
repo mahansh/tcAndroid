@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TcAndroid</string>
+    <string name="show_text">Hi android</string>
+    <string name="pls_listen">Please listen to class !!!</string>
+
+    <string name="question_1">Are you ahmad?</string>
+    <string name="question_2">Are you 18 years old?</string>
+    <string name="question_3">Are you ok?</string>
+    <string name="question_4">Are you android developer?</string>
+    <string name="question_5">Are you student?</string>
+
+    <string-array name="question">
+        <item>Are you ahmad?</item>
+        <item>Are you 18 years old?</item>
+    </string-array>
+
+    <string name="true_ans">True</string>
+    <string name="false_ans">False</string>
+</resources>
